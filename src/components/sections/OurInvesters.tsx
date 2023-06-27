@@ -5,7 +5,7 @@ export default function OurInvesters() {
   return (
     <Section>
       <Title>Tokenomics</Title>
-      <Image src={'/assets/tokenomics.png'} width={700} height={700} alt="" />
+      <Image src={'/assets/pie.png'} width={700} height={700} alt="" />
       {/* <div className="grid grid-cols-3 gap-9 md:gap-x-16 place-items-center">
         <Investor heading="5%" para="Pre Seed" />
         <Investor heading="13.3%" para="Seed" />
