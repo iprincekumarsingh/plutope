@@ -83,7 +83,7 @@ export default function Roadmap() {
           <Card key={data.yr} data={data} />
         ))}
       </div> */}
-      <Image className="max-w-lg w-screen px-4" src={"/assets/roadmap.png"} width={800} height={800} alt="" />
+      <Image className="max-w-lg w-screen px-4" src={"/assets/roadmap2.png"} width={800} height={800} alt="" />
     </Section>
   );
 }
