@@ -50,7 +50,7 @@ export default function CryptoPayment() {
         />
       </div> */}
       <Image
-        className="justify-self-center p2 m-3 max-sm:mt-80 sm:mt100 max-w-[22rem] w-screen"
+        className="justify-self-center p-4 m-3 max-sm:mt-80 sm:mt100 max-w-[22rem] w-screen"
         src={"/assets/Waitlist.png"}
         width={1000}
         height={1000}
