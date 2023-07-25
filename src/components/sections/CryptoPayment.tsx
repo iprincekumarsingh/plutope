@@ -57,7 +57,7 @@ export default function CryptoPayment() {
         alt=""
       />
       <Link
-        href={""}
+        href={"https://pay.plutope.io/"}
         target="_blank"
         className="pointer-events-none mt-12 text-center text-2xl md:text-3xl justify-self-center p-4 px-8 rounded-full bg-gradient-to-r from-purple-900 viapurple-700 to-blue-800"
       >
