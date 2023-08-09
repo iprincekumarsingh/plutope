@@ -33,7 +33,7 @@ export default function CryptoPayment() {
       </div>
       <div className="absolute sm:hidden max-md:min-w-[100dvw] flex justify-self-center bottom-96 md:top-96">
         <Image
-          className="top-60 relative "
+          className="top-[-60px] relative "
           src={"/assets/debitP.png"}
           width={1000}
           height={200}
@@ -51,7 +51,7 @@ export default function CryptoPayment() {
       </div> */}
       <Image
         className="justify-self-center p-6 max-sm:mt-60 sm:mt96 max-w-2xl w-screen"
-        src={"/assets/Waitlist.png"}
+        src={"/assets/table_new.png"}
         width={1000}
         height={1000}
         alt=""
