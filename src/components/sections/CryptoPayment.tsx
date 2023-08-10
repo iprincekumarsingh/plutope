@@ -40,22 +40,15 @@ export default function CryptoPayment() {
           alt=""
         />
       </div>
-      {/* <div className="absolute max-sm:hidden max-md:min-w-[100dvw] flex justify-self-center bottom-96 md:top-96">
-        <Image
-          className="-top-60 relative "
-          src={"/assets/debitP.png"}
-          width={1000}
-          height={200}
-          alt=""
-        />
-      </div> */}
+     
       <Image
-        className="justify-self-center p-6 max-sm:mt-60 sm:mt96 max-w-2xl w-screen"
+        className="justify-self-center  max-sm:mt-60 sm:mt96 max-w-2xl w-screen"
         src={"/assets/table_new.png"}
         width={1000}
         height={1000}
         alt=""
       />
+      
       <Link
         href={"https://pay.plutope.io/"}
         target="_blank"
